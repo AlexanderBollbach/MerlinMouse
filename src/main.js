@@ -26,7 +26,7 @@ window.onload = function() {
 function startGame() {
 	let canvasManager = new CanvasManager("GameEngineCanvas");
 
-	canvasManager.context.lineWidth = "2";
+	canvasManager.context.lineWidth = "10";
 	canvasManager.context.strokeStyle = "purple";
 	canvasManager.context.rect(20, 20, 150, 100);
 	canvasManager.context.stroke();
