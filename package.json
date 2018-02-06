@@ -14,5 +14,9 @@
 		"express": "^4.16.2",
 		"webpack": "^3.10.0",
 		"webpack-dev-server": "^2.11.1"
+	},
+	"engines": {
+		"npm": "5.5.1",
+		"node": "8.9.1"
 	}
 }
