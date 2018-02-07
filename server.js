@@ -1,4 +1,4 @@
-varvar path = require("path"),
+var path = require("path"),
     express = require("express");
 
 var DIST_DIR = path.join(__dirname, "dist"),
